@@ -14,12 +14,14 @@ Soy SiKCube, un apasionado aspirante a desarrollador de software con experiencia
 
 - JavaScript
 - Python
+- TypeScript
 - HTML
 - CSS
 - React
 - NextJS
 - RemixJS
 - Flask
+- Shadcn/ui
 
 ## Proyectos destacados
 
