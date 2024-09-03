@@ -25,5 +25,5 @@ Soy SiKCube, un apasionado aspirante a desarrollador de software con experiencia
 
 ## Proyectos destacados
 
-- App de fronton (Algun nombre?): Una app web para registrar y obtener estadisticas sobre las partidas de fronton q registres.
-- Foro (Algun nombre?): Una foro q te permita crear canales de cualquier tipo (En desarrollo :).
+- App de fronton: Una app web para registrar y obtener estadisticas sobre las partidas de fronton q registres.
+- Foro: Una foro q te permita crear canales de cualquier tipo (En desarrollo :).
