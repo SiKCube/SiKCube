@@ -2,6 +2,8 @@
 
 Soy SiKCube, un apasionado aspirante a desarrollador de software con experiencia en desarrollo web (por ahora). Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos.
 
+<a href="https://app.daily.dev/sikcube"><img src="https://api.daily.dev/devcards/v2/yzZpHLE2IIoCD3K7Ugayo.png?type=wide&r=ggl" width="652" alt="SiKCube's Dev Card"/></a>
+
 ## Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo RemixJS.
