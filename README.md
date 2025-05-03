@@ -1,31 +1,43 @@
-### ¡Hola! 👋
+<p align="center">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/sikcube" />
+   <h3 align="center">Hi, I am SiKCube  🇧🇴 🫡</h1>
+  <p align="center">I am a Bolivian self-teach programer and chess enjoyer. </p>
+</p>
 
-Soy SiKCube, un apasionado aspirante a desarrollador de software con experiencia en desarrollo web (por ahora). Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos.
+## Origins 🌟
 
-<a href="https://app.daily.dev/sikcube"><img src="https://api.daily.dev/devcards/v2/yzZpHLE2IIoCD3K7Ugayo.png?type=wide&r=ggl" width="652" alt="SiKCube's Dev Card"/></a>
+I started when I was 13, since then I was learning a little bit of all. First I started with **Scratch** then **Python** later I enter to the **Web Development** world there I learn **Javascript**. 
 
-## Sobre mí
+## Now what I am doing? 🛠️
 
-- 🌱 Actualmente estoy aprendiendo RemixJS.
-- 👯 Estoy buscando colaborar en proyectos de [tipo de proyectos que te interesan].
-- 🤔 Estoy buscando ayuda:
-  - Con como funcionan las cookies de RemixJS.
-- 📫 Cómo contactarme: [sik.chetos@gmail.com](mailto:=sik.chetos@gmail.com).
+Good question. Here are some proyects I am working on. 👇
 
-## Lenguajes y herramientas
+- Fronton App 
 
-- JavaScript
+## Future proyects ideas 💡
+
+- Chess bot ♟️
+- Organization App ☑️ 
+
+## Lenguajes I know 🧑‍💻
+
 - Python
+- JavaScript
 - TypeScript
-- HTML
-- CSS
+- HTML and CSS
+
+## Frameworks I know 🧰
+
+- React Router 7
 - React
 - NextJS
-- RemixJS
 - Flask
-- Shadcn/ui
+- Astro
 
-## Proyectos destacados
+## Other stuff 🔤
+<img src="https://roadmap.sh/card/tall/66266d5d05a88e63e80d0bab?variant=dark" alt="roadmap.sh"/>
 
-- App de fronton: Una app web para registrar y obtener estadisticas sobre las partidas de fronton q registres.
-- Foro: Una foro q te permita crear canales de cualquier tipo (En desarrollo :).
+## Socials 🔗
+- [Chess.com](https://www.chess.com/member/sikcube) ♟️
+- [YouTube](https://www.youtube.com/@SikCube) 📹
+
