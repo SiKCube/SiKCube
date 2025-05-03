@@ -8,13 +8,15 @@
 
 I started when I was 13, since then I was learning a little bit of all. First I started with **Scratch** then **Python** later I enter to the **Web Development** world there I learn **Javascript**. 
 
-## Now what I am doing? 🛠️
+## Now what I am doing? 🤔
 
-Good question. Here are some proyects I am working on. 👇
+Good question. Here are some proyects. 👇
+
+### Working on 🛠️
 
 - Fronton App 
 
-## Future proyects ideas 💡
+### Proyects ideas 💡
 
 - Chess bot ♟️
 - Organization App ☑️ 
