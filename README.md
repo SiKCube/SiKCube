@@ -1,7 +1,7 @@
 <p align="center">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/sikcube" />
    <h3 align="center">Hi, I am SiKCube  🇧🇴 🫡</h1>
-  <p align="center">I am a Bolivian self-teach programer and chess enjoyer. </p>
+  <p align="center">Self-teach programer and chess enjoyer.</p>
 </p>
 
 ## Origins 🌟
