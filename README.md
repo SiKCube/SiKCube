@@ -8,6 +8,13 @@
 
 I started when I was 13, since then I was learning a little bit of all. First I started with **Scratch** then **Python** later I enter to the **Web Development** world there I learn **Javascript**. 
 
+## GitHub stats 🥇
+
+<div align="start">
+   <img src="https://github-readme-stats.vercel.app/api?username=SiKCube&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="SiKCube's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiKCube&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="SiKCube's GitHub Stats" />
+</div>
+
 ## Now what I am doing? 🤔
 
 Good question. Here are some proyects. 👇
@@ -36,7 +43,7 @@ Good question. Here are some proyects. 👇
 - Flask
 - Astro
 
-## Other stuff 🔤
+## Roadmap progress 🗺️
 <img src="https://roadmap.sh/card/tall/66266d5d05a88e63e80d0bab?variant=dark" alt="roadmap.sh"/>
 
 ## Socials 🔗
